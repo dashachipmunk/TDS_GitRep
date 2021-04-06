@@ -1,0 +1,2155 @@
+fileFormatVersion: 2
+guid: 68ea943a8f5ff59488a13e49f255d0bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8637625739390614345
+    second: Tilelist_cracks_0
+  - first:
+      213: 1200665807568682408
+    second: Tilelist_cracks_1
+  - first:
+      213: -4455375894423026307
+    second: Tilelist_cracks_2
+  - first:
+      213: -3854688948909035839
+    second: Tilelist_cracks_3
+  - first:
+      213: 6622161380971889694
+    second: Tilelist_cracks_4
+  - first:
+      213: 7818701150494098405
+    second: Tilelist_cracks_5
+  - first:
+      213: 135890112832584183
+    second: Tilelist_cracks_6
+  - first:
+      213: 6997020685635302369
+    second: Tilelist_cracks_7
+  - first:
+      213: -4857968612571941169
+    second: Tilelist_cracks_8
+  - first:
+      213: 7644166351821055577
+    second: Tilelist_cracks_9
+  - first:
+      213: -6451712576176114810
+    second: Tilelist_cracks_10
+  - first:
+      213: 5830100834222554131
+    second: Tilelist_cracks_11
+  - first:
+      213: -8067300864448946165
+    second: Tilelist_cracks_12
+  - first:
+      213: 5218099688840797836
+    second: Tilelist_cracks_13
+  - first:
+      213: 3460112625990421579
+    second: Tilelist_cracks_14
+  - first:
+      213: 4104649755678906591
+    second: Tilelist_cracks_15
+  - first:
+      213: -707742860272820558
+    second: Tilelist_cracks_16
+  - first:
+      213: 6369258205944028816
+    second: Tilelist_cracks_17
+  - first:
+      213: -2686285081626393922
+    second: Tilelist_cracks_18
+  - first:
+      213: 2825024212276225490
+    second: Tilelist_cracks_19
+  - first:
+      213: 146141689991098954
+    second: Tilelist_cracks_20
+  - first:
+      213: -1666953184966384037
+    second: Tilelist_cracks_21
+  - first:
+      213: -5151951447309540644
+    second: Tilelist_cracks_22
+  - first:
+      213: 6320271462600640908
+    second: Tilelist_cracks_23
+  - first:
+      213: -1621038412222132455
+    second: Tilelist_cracks_24
+  - first:
+      213: 3482454160262021771
+    second: Tilelist_cracks_25
+  - first:
+      213: 2003303635934580273
+    second: Tilelist_cracks_26
+  - first:
+      213: -5503496560300394288
+    second: Tilelist_cracks_27
+  - first:
+      213: -1909391381201236128
+    second: Tilelist_cracks_28
+  - first:
+      213: -404779046542746702
+    second: Tilelist_cracks_29
+  - first:
+      213: -8565598145284676526
+    second: Tilelist_cracks_30
+  - first:
+      213: -7737440913388915439
+    second: Tilelist_cracks_31
+  - first:
+      213: -8203839291807750577
+    second: Tilelist_cracks_32
+  - first:
+      213: 7252029372522090793
+    second: Tilelist_cracks_33
+  - first:
+      213: -3604737607181399756
+    second: Tilelist_cracks_34
+  - first:
+      213: 6390141200384073558
+    second: Tilelist_cracks_35
+  - first:
+      213: -9129921464898636963
+    second: Tilelist_cracks_36
+  - first:
+      213: 6925629790321257938
+    second: Tilelist_cracks_37
+  - first:
+      213: -5059035014234504158
+    second: Tilelist_cracks_38
+  - first:
+      213: 4070167559008295268
+    second: Tilelist_cracks_39
+  - first:
+      213: -4615211473012000658
+    second: Tilelist_cracks_40
+  - first:
+      213: -3708934207125489761
+    second: Tilelist_cracks_41
+  - first:
+      213: -6026862647898073681
+    second: Tilelist_cracks_42
+  - first:
+      213: -5637973307430260411
+    second: Tilelist_cracks_43
+  - first:
+      213: -5767121963187942779
+    second: Tilelist_cracks_44
+  - first:
+      213: -6519196714147985789
+    second: Tilelist_cracks_45
+  - first:
+      213: -5495351149981417535
+    second: Tilelist_cracks_46
+  - first:
+      213: -4834865422281672671
+    second: Tilelist_cracks_47
+  - first:
+      213: 3061553765155085499
+    second: Tilelist_cracks_48
+  - first:
+      213: -1852269855974044463
+    second: Tilelist_cracks_49
+  - first:
+      213: -6705436402920550944
+    second: Tilelist_cracks_50
+  - first:
+      213: -5406985678744096737
+    second: Tilelist_cracks_51
+  - first:
+      213: -4091067064696033697
+    second: Tilelist_cracks_52
+  - first:
+      213: 2452979071927018784
+    second: Tilelist_cracks_53
+  - first:
+      213: 952270360237701756
+    second: Tilelist_cracks_54
+  - first:
+      213: 8858636598506088323
+    second: Tilelist_cracks_55
+  - first:
+      213: 5150092522759793771
+    second: Tilelist_cracks_56
+  - first:
+      213: -5588107337908147265
+    second: Tilelist_cracks_57
+  - first:
+      213: 7677275944468870383
+    second: Tilelist_cracks_58
+  - first:
+      213: 2594778490753379190
+    second: Tilelist_cracks_59
+  - first:
+      213: -6316416937902832012
+    second: Tilelist_cracks_60
+  - first:
+      213: -3930991827405322163
+    second: Tilelist_cracks_61
+  - first:
+      213: -1656753529405055578
+    second: Tilelist_cracks_62
+  - first:
+      213: 6122197015878462572
+    second: Tilelist_cracks_63
+  - first:
+      213: 6817670393023667289
+    second: Tilelist_cracks_64
+  - first:
+      213: -8430363860889141480
+    second: Tilelist_cracks_65
+  - first:
+      213: -8784186542485055933
+    second: Tilelist_cracks_66
+  - first:
+      213: -5293036637030679172
+    second: Tilelist_cracks_67
+  - first:
+      213: -1477947429140329854
+    second: Tilelist_cracks_68
+  - first:
+      213: -4613315034918421406
+    second: Tilelist_cracks_69
+  - first:
+      213: -333273173580453974
+    second: Tilelist_cracks_70
+  - first:
+      213: 1165035673644481895
+    second: Tilelist_cracks_71
+  - first:
+      213: -7177999893352653582
+    second: Tilelist_cracks_72
+  - first:
+      213: 6903226426626682127
+    second: Tilelist_cracks_73
+  - first:
+      213: -1309312565707857944
+    second: Tilelist_cracks_74
+  - first:
+      213: 9213776463032922784
+    second: Tilelist_cracks_75
+  - first:
+      213: 6105676049827785397
+    second: Tilelist_cracks_76
+  - first:
+      213: 7019421589273000437
+    second: Tilelist_cracks_77
+  - first:
+      213: 9205534895346759311
+    second: Tilelist_cracks_78
+  - first:
+      213: -8291474152379621821
+    second: Tilelist_cracks_79
+  - first:
+      213: 3251661876120843923
+    second: Tilelist_cracks_80
+  - first:
+      213: 2703798754971867383
+    second: Tilelist_cracks_81
+  - first:
+      213: -2684081793232833134
+    second: Tilelist_cracks_82
+  - first:
+      213: -5842313647398475290
+    second: Tilelist_cracks_83
+  - first:
+      213: 5009354495004032701
+    second: Tilelist_cracks_84
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilelist_cracks_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2680
+        width: 298
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46580c41f91cca84c9e67322124181fa
+      internalID: 8637625739390614345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2694
+        width: 259
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257b5c790e20554bb198a635c449bc8
+      internalID: 1200665807568682408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_2
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2697
+        width: 184
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ba790872616784e97a38d3027bf242
+      internalID: -4455375894423026307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_3
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2695
+        width: 219
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428b7b0f473ff5429fe7289ffb79fa8
+      internalID: -3854688948909035839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2347
+        width: 223
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d2d0a7c596734b851bfb7456a519f
+      internalID: 6622161380971889694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2359
+        width: 179
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c4770639b5574da0266d38199b129
+      internalID: 7818701150494098405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2379
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be25ca311893740a92a1fc5dd62a8c
+      internalID: 135890112832584183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2379
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6411f683d067b6043aa0487a6e1eb06d
+      internalID: 6997020685635302369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_8
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2376
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26103aa3f5f151f4ba1e073ca7b59bf1
+      internalID: -4857968612571941169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_9
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 2335
+        width: 169
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c9fb0fc76a7546ae71a69ba4ab8dd
+      internalID: 7644166351821055577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_10
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2451
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e845874b7ff487428199216180691eb
+      internalID: -6451712576176114810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_11
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2465
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25b807b31e3ce546b0483bdc5c74c1e
+      internalID: 5830100834222554131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_12
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2490
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d7e7c6f6e8d3b448d379dc6a89880c
+      internalID: -8067300864448946165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_13
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2486
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea9b1b731523df4faf7e162579ec122
+      internalID: 5218099688840797836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_14
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2350
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a40e998bd76c643ad5ffeb381039f7
+      internalID: 3460112625990421579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_15
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2343
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6ceacc14c41a4ba6dfb98b80ca0a3
+      internalID: 4104649755678906591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_16
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2350
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6ac89c8d3db048b6668544866bfb5
+      internalID: -707742860272820558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2111
+        width: 110
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8626888e7d13240837c17fd2266dc8
+      internalID: 6369258205944028816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2086
+        width: 142
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c2f875ac8651849854d6c693760e58
+      internalID: -2686285081626393922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2121
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441de772453bae479721a0024723a7f
+      internalID: 2825024212276225490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_20
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2079
+        width: 208
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb305bc09b75a4f4dbda18613717296d
+      internalID: 146141689991098954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_21
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2103
+        width: 237
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76eb4135e4f89b4fb34c557a7ba3af5
+      internalID: -1666953184966384037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2202
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf9866370a14d408422981591a356d
+      internalID: -5151951447309540644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_23
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2198
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af559212eb76dd54ebf7e2e4418c29e4
+      internalID: 6320271462600640908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_24
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2119
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7527f16832dcea40ba04b9be7dab18e
+      internalID: -1621038412222132455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_25
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2127
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145dc9b010c1444fa510adc8ebf7bab
+      internalID: 3482454160262021771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_26
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 2133
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324cc5e56796ce4da73d3c7537598e5
+      internalID: 2003303635934580273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_27
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2122
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec1f816167b1924daa3943154997333
+      internalID: -5503496560300394288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1649
+        width: 299
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e540ceae0711f4199dde06d5a6aa1a
+      internalID: -1909391381201236128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1670
+        width: 261
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b24cab62705a489e3a04ab2557bbf
+      internalID: -404779046542746702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_30
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1668
+        width: 184
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64cbee228bbb043947b5c5afbaca35
+      internalID: -8565598145284676526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_31
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1667
+        width: 195
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf67cfd7256c34e992025e6cdba6c1
+      internalID: -7737440913388915439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1313
+        width: 222
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7faa893255c549ab65bea0afa182f
+      internalID: -8203839291807750577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1328
+        width: 178
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3774a90791a3525459d7eb8e85e09624
+      internalID: 7252029372522090793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1347
+        width: 131
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13474f56cd64c04e8910eb206a476d5
+      internalID: -3604737607181399756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1345
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7315de42cf65344389677c6d3cf64e7
+      internalID: 6390141200384073558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_36
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1344
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4797e0e73dbc1f349a9824dfe3725b36
+      internalID: -9129921464898636963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_37
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1316
+        width: 143
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee93e0767a97a4db8eec471e9e4db1
+      internalID: 6925629790321257938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_38
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1420
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370590669bda6bb49ac18074fea2a470
+      internalID: -5059035014234504158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_39
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1439
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef2c398469bc6469054127190bad5d
+      internalID: 4070167559008295268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_40
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1429
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa884aeaeb418040a1620c49fc89674
+      internalID: -4615211473012000658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_41
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1445
+        width: 107
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda31c95fa990c43931f2a383e94210
+      internalID: -3708934207125489761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_42
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1400
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5ad81c9d964c4a908e5c0fadebd44
+      internalID: -6026862647898073681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_43
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1329
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7573079a6907cc46a8670aeb24d006a
+      internalID: -5637973307430260411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_44
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1325
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b9219ef3fe26447a42c58475a51672
+      internalID: -5767121963187942779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_45
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1322
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3649fe4061face845b3d794150cabf4a
+      internalID: -6519196714147985789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1088
+        width: 110
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc1196b8e2d5a4aa423b97cc8c9d08
+      internalID: -5495351149981417535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1046
+        width: 170
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a84b821bfadb248bf35a6aeaa7b26c
+      internalID: -4834865422281672671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1073
+        width: 235
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c097db74e2a2489c74dadba518b27
+      internalID: 3061553765155085499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_49
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1049
+        width: 210
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f366cf96598dcff47b240735fb740aab
+      internalID: -1852269855974044463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_50
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1089
+        width: 78
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a946ebaf9bdcce34099e79c3e2617f58
+      internalID: -6705436402920550944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_51
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1174
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111c923387526243a641e20f872b446
+      internalID: -5406985678744096737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_52
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1191
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092cc0c833aeed24db99a6e8e4ba9025
+      internalID: -4091067064696033697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_53
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1089
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d405516f6a7d41909eea733d1b615
+      internalID: 2452979071927018784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_54
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1098
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f6be30f69298489e5fbe7de6d5e04
+      internalID: 952270360237701756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_55
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1108
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112d8ac8b5b3b445a0c2f767e47cf7b
+      internalID: 8858636598506088323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_56
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1092
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6662e92c19b754b9f20aa59acbf117
+      internalID: 5150092522759793771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 636
+        width: 195
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e48eeb4d633f41ba252b66ee3f4ea
+      internalID: -5588107337908147265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_58
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 637
+        width: 184
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10df0e3aad5ce45bf60509fe71960b
+      internalID: 7677275944468870383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_59
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 634
+        width: 260
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6843de562904e4691c0a99b3e5129f
+      internalID: 2594778490753379190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_60
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 619
+        width: 300
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bbe3c2322e3a54195f4363ffdb496a
+      internalID: -6316416937902832012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 283
+        width: 221
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd6a33f490d6146b3c570e70aac5bb
+      internalID: -3930991827405322163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 301
+        width: 179
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc979afc0785cf34aac88a80933ef2bc
+      internalID: -1656753529405055578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 314
+        width: 133
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26f235c607bbbf44b2560629ce9f80b
+      internalID: 6122197015878462572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_64
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 316
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867e7a1fe060674089f6c41a24c40dd
+      internalID: 6817670393023667289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_65
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 316
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493960bc49c25b4dab81ede6c79a2c9
+      internalID: -8430363860889141480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_66
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 307
+        width: 110
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b373e059223343b6d6b6b6963ced4
+      internalID: -8784186542485055933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_67
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 391
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182fbcbfa8b31f44f86b4c2b18a10a81
+      internalID: -5293036637030679172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_68
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 403
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a860feb82a5cb5540af792cb9ee8d3aa
+      internalID: -1477947429140329854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_69
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 420
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f6d7895125cd4e86ed45f3e98aea1
+      internalID: -4613315034918421406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_70
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 412
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6538456ee421545a1f7bff18851e27
+      internalID: -333273173580453974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_71
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 272
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ccf2cda5a903e4e81efd9687292031
+      internalID: 1165035673644481895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_72
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 298
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6a0f49a7c59048a7dde49415c320f
+      internalID: -7177999893352653582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_73
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 295
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea76c9f6063db4ba9491b442c53740
+      internalID: 6903226426626682127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 144
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e138b62d32503748ac2d334bc49fa7f
+      internalID: -1309312565707857944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 60
+        width: 80
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c317ea50bb294745b1116a456cd80fa
+      internalID: 9213776463032922784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_76
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 19
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eabc7234ca1254ba8c08036aa29b2b
+      internalID: 6105676049827785397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_77
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 44
+        width: 235
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df56ae4be4e8b4ebef970e598e05a7
+      internalID: 7019421589273000437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_78
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 16
+        width: 171
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e5a92c63575f4e8fb5dc964cd9d6c
+      internalID: 9205534895346759311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_79
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 161
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1daaf3a35ccb45a8f6cc472a67a20
+      internalID: -8291474152379621821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_80
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 143
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec12d503e2f7c04bad1fda4927db046
+      internalID: 3251661876120843923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_81
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 60
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b9d8d0a1040324e9d6466563671caf
+      internalID: 2703798754971867383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_82
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 67
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbabe10bb2600540a55b0568e8a01bf
+      internalID: -2684081793232833134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_83
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 73
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c69882c1ffbfe4eaadf5f86f5aa6a9
+      internalID: -5842313647398475290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilelist_cracks_84
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 73
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6859b54d726f4b47af3ce1288e2f926
+      internalID: 5009354495004032701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

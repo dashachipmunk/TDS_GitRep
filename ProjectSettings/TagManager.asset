@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - shot
+  - player
+  - zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - EnemyShot
+  - PlayerShot
+  - Loot
+  - Zombie
+  - Explosive
+  - Wall
+  - LVLChanger
+  - Bush
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 1520434413
+    locked: 0
+  - name: Mud
+    uniqueID: 4012270665
+    locked: 0
+  - name: Cracks
+    uniqueID: 2869059929
+    locked: 0
+  - name: Building
+    uniqueID: 3878006685
+    locked: 0
+  - name: Floor
+    uniqueID: 4032575589
+    locked: 0
+  - name: Furniture
+    uniqueID: 3105832447
+    locked: 0
+  - name: Zombie
+    uniqueID: 765641471
+    locked: 0
+  - name: Water
+    uniqueID: 1954122275
+    locked: 0
+  - name: Player
+    uniqueID: 2086871917
+    locked: 0
+  - name: Grass
+    uniqueID: 514607899
+    locked: 0
+  - name: Leafs
+    uniqueID: 3867370669
+    locked: 0
+  - name: Trees
+    uniqueID: 4233704399
+    locked: 0
+  - name: Effects
+    uniqueID: 2047538795
+    locked: 0
