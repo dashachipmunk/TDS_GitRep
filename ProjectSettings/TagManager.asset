@@ -27,7 +27,7 @@ TagManager:
   - Wall
   - LVLChanger
   - Bush
-  - 
+  - Obstacle
   - 
   - 
   - 
@@ -69,6 +69,9 @@ TagManager:
   - name: Water
     uniqueID: 1954122275
     locked: 0
+  - name: Obstacles
+    uniqueID: 667523283
+    locked: 0
   - name: Player
     uniqueID: 2086871917
     locked: 0
@@ -83,4 +86,7 @@ TagManager:
     locked: 0
   - name: Effects
     uniqueID: 2047538795
+    locked: 0
+  - name: UI
+    uniqueID: 1294662355
     locked: 0

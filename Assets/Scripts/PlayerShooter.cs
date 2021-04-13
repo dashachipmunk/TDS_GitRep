@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PlayerShooter : MonoBehaviour
 {
-    public Shots shot;
+    public Bullets shot;
     public GameObject shotPos;
 
     [Tooltip("Fire frequency")]
@@ -21,7 +21,7 @@ public class PlayerShooter : MonoBehaviour
     SoundManager sM;
     public AudioClip shotSound;
     AudioSource audioSource;
-    
+
     Animator animator;
     PlayerManager player;
     private void Awake()
@@ -29,7 +29,7 @@ public class PlayerShooter : MonoBehaviour
         animator = GetComponent<Animator>();
         sM = FindObjectOfType<SoundManager>();
         audioSource = GetComponent<AudioSource>();
-        
+
     }
     private void Start()
     {
@@ -63,7 +63,7 @@ public class PlayerShooter : MonoBehaviour
                 {
                     audioSource.Play();
                 }
-                
+
             }
         }
     }
