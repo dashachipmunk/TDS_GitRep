@@ -1,9 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using System;
 using UnityEngine.UI;
 using Pathfinding;
+using Lean.Pool;
 
 public class BossScript : MonoBehaviour
 {
@@ -30,6 +29,13 @@ public class BossScript : MonoBehaviour
     SoundManager sM;
     AIPath aiPath;
     AIDestinationSetter destinationSetter;
+    public PlayerDataSO playerData;
+
+    [Header("Ranged attack")]
+    public Bullets shot;
+    public GameObject shotPos;
+    float timer;
+    public float fireFrequency;
     enum ZombieState
     {
         RANGEDATTACK,
@@ -57,9 +63,14 @@ public class BossScript : MonoBehaviour
         playerHealth = FindObjectOfType<PlayerHealth>();
     }
 
-    
     void Update()
     {
+        if (isAlive)
+        {
+            UpdateState();
+            Rotation();
+            Fire();
+        }
         ZombieIsDead();
     }
 
@@ -73,7 +84,7 @@ public class BossScript : MonoBehaviour
                 {
                     ChangeState(ZombieState.MELEEATTACK);
                 }
-                if (distance > meleeAttackRange)
+                if (distance > rangedAttackRange)
                 {
                     ChangeState(ZombieState.MOVEtoPLAYER);
                 }
@@ -86,12 +97,22 @@ public class BossScript : MonoBehaviour
                         ChangeState(ZombieState.RANGEDATTACK);
                     }
                 }
-                
+                if (distance > meleeAttackRange)
+                {
+                    ChangeState(ZombieState.MOVEtoPLAYER);
+                }
                 break;
             case ZombieState.MOVEtoPLAYER:
                 if (distance <= meleeAttackRange)
                 {
                     ChangeState(ZombieState.MELEEATTACK);
+                }
+                if (healthBar.value <= healthBar.maxValue / 2)
+                {
+                    if (distance <= rangedAttackRange && distance > meleeAttackRange)
+                    {
+                        ChangeState(ZombieState.RANGEDATTACK);
+                    }
                 }
                 break;
             case ZombieState.STAND:
@@ -106,19 +127,25 @@ public class BossScript : MonoBehaviour
     }
     void ChangeState(ZombieState newState)
     {
+
         aciveState = newState;
         switch (aciveState)
         {
             case ZombieState.RANGEDATTACK:
-                animator.SetTrigger("Attack");
+                animator.SetBool("IsRanged", true);
                 aiPath.enabled = false;
+                
                 break;
             case ZombieState.MELEEATTACK:
-                animator.SetTrigger("Melee");
+                
+                animator.SetBool("IsMelee", true);
                 aiPath.enabled = false;
                 break;
             case ZombieState.MOVEtoPLAYER:
                 animator.SetFloat("Speed", 1);
+                animator.SetBool("IsMelee", false);
+                animator.SetBool("IsRanged", false);
+                LeanPool.DespawnAll();
                 aiPath.enabled = true;
                 break;
             case ZombieState.STAND:
@@ -127,6 +154,7 @@ public class BossScript : MonoBehaviour
             default:
                 break;
         }
+
     }
     void ZombieIsDead()
     {
@@ -137,6 +165,7 @@ public class BossScript : MonoBehaviour
             c2d.isTrigger = true;
             aiPath.enabled = false;
             rb.velocity = Vector2.zero;
+            rb.freezeRotation = true;
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -165,5 +194,36 @@ public class BossScript : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, rangedAttackRange);
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(transform.position, hearingRange);
+    }
+    void Rotation()
+    {
+        Vector3 zombiePosition = transform.position;
+        Vector3 direction = destinationSetter.target.position - zombiePosition;
+        transform.up = direction;
+    }
+    void Fire()
+    {
+        if (timer > 0)
+        {
+            timer -= Time.deltaTime;;
+        }
+        if (aciveState == ZombieState.RANGEDATTACK)
+        {
+            if (timer <= 0.01f)
+            {
+                LeanPool.Spawn(shot, shotPos.transform.position, transform.rotation);
+                timer = fireFrequency;
+            }
+            
+        }
+        
+    }
+    public void BossAttack()
+    {
+        if (distance <= meleeAttackRange)
+        {
+            playerHealth.HealthReduce();
+            playerData.health--;
+        }
     }
 }

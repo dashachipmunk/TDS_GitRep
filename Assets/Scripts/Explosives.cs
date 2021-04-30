@@ -6,6 +6,7 @@ public class Explosives : MonoBehaviour
 {
     public float explosiveRadius;
     public int explosiveDamage;
+    public PlayerDataSO playerData;
     PlayerHealth health;
     ZombieManager zombieHealth;
     Animator animator;
@@ -26,12 +27,13 @@ public class Explosives : MonoBehaviour
         {
             if (collider.gameObject.layer == 9)
             {
-                health.health -= explosiveDamage;
+                playerData.health -= explosiveDamage;
                 health.healthBar.value -= explosiveDamage;
             }
             else if (collider.gameObject.layer == 13)
             {
                 zombieHealth.health -= explosiveDamage;
+                zombieHealth.healthBar.value -= explosiveDamage;
             }
         }
     }

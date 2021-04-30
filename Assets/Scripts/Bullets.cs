@@ -13,7 +13,7 @@ public class Bullets : MonoBehaviour
 
     void Update()
     {
-        rb.velocity = -transform.up * speed;
+        rb.velocity = transform.up * speed;
     }
     private void OnBecameInvisible()
     {

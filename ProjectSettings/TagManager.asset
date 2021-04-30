@@ -63,9 +63,6 @@ TagManager:
   - name: Furniture
     uniqueID: 3105832447
     locked: 0
-  - name: Zombie
-    uniqueID: 765641471
-    locked: 0
   - name: Water
     uniqueID: 1954122275
     locked: 0
@@ -74,6 +71,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2086871917
+    locked: 0
+  - name: Zombie
+    uniqueID: 765641471
     locked: 0
   - name: Grass
     uniqueID: 514607899

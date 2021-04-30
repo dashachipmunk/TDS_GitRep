@@ -122,3 +122,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   addBullets: 10
   clip: {fileID: 8300000, guid: 8ca88f508a12a8a42ae9ee75bad8ff1d, type: 3}
+  playerData: {fileID: 11400000, guid: 798c5b9c4c973544d9b15af33757bb78, type: 2}

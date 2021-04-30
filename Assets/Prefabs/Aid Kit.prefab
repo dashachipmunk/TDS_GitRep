@@ -121,3 +121,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 2
+  playerData: {fileID: 11400000, guid: 798c5b9c4c973544d9b15af33757bb78, type: 2}

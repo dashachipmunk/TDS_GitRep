@@ -77,7 +77,7 @@ MonoBehaviour:
   rotationSpeed: 360
   slowdownDistance: 0.86
   pickNextWaypointDist: 1.59
-  endReachedDistance: 0.95
+  endReachedDistance: 0.89
   alwaysDrawGizmos: 0
   slowWhenNotFacingTarget: 1
   whenCloseToDestination: 0
@@ -136,10 +136,11 @@ MonoBehaviour:
   - {fileID: 1628507687814982464}
   - {fileID: 1628507688217037410}
   - {fileID: 1628507688634709795}
-  patrolSpeed: 0.6
+  patrolSpeed: 0.3
   patrolChangeTime: 5
   moveSound: {fileID: 8300000, guid: 909e60d37f5eee74685c8562fd89c208, type: 3}
   attackSound: {fileID: 8300000, guid: 3ad86916ff53d624da962c501c2939ed, type: 3}
+  playerData: {fileID: 11400000, guid: 798c5b9c4c973544d9b15af33757bb78, type: 2}
 --- !u!1 &1628507687814982464
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,6 +295,18 @@ Transform:
   m_Father: {fileID: 1628507687500162383}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5439268292675511784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015248891258719338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7998fa10e471dd4d95556e232524325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &8626053265149527196
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -396,6 +409,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 13
       objectReference: {fileID: 0}
+    - target: {fileID: 2498324641592379155, guid: b653df488315acf42ae9ca14b1e10c52,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -150
+      objectReference: {fileID: 0}
     - target: {fileID: 8052481947012557957, guid: b653df488315acf42ae9ca14b1e10c52,
         type: 3}
       propertyPath: m_Layer
@@ -415,6 +433,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 614219312770751043, guid: b653df488315acf42ae9ca14b1e10c52,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 614219312770751043, guid: b653df488315acf42ae9ca14b1e10c52,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 43927347438324332, guid: b653df488315acf42ae9ca14b1e10c52,
         type: 3}
@@ -442,6 +470,12 @@ GameObject:
 --- !u!4 &1628507687625349322 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7002106352297368662, guid: b653df488315acf42ae9ca14b1e10c52,
+    type: 3}
+  m_PrefabInstance: {fileID: 8626053265149527196}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2015248891258719338 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7800937750604007670, guid: b653df488315acf42ae9ca14b1e10c52,
     type: 3}
   m_PrefabInstance: {fileID: 8626053265149527196}
   m_PrefabAsset: {fileID: 0}

@@ -6,6 +6,7 @@ public class AidKit : MonoBehaviour
 {
     public int health;
     PlayerHealth player;
+    public PlayerDataSO playerData;
     void Awake()
     {
         player = FindObjectOfType<PlayerHealth>();
@@ -15,7 +16,7 @@ public class AidKit : MonoBehaviour
     {
         if (collision.gameObject.layer == 9)
         {
-            player.health += health;
+            playerData.health += health;
             player.healthBar.value += health;
             Destroy(gameObject);
         }

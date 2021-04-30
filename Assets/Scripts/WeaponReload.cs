@@ -8,6 +8,7 @@ public class WeaponReload : MonoBehaviour
     PlayerShooter player;
     SoundManager sm;
     public AudioClip clip;
+    public PlayerDataSO playerData;
     private void Awake()
     {
         sm = FindObjectOfType<SoundManager>();
@@ -22,14 +23,14 @@ public class WeaponReload : MonoBehaviour
     {
         if (collision.gameObject.layer == 9)
         {
-            if (player.bulletsNumber < player.maxBulletsNumber)
+            if (playerData.bulletsNumber < player.maxBulletsNumber)
             {
-                player.bulletsNumber += addBullets;
+                playerData.bulletsNumber += addBullets;
                 sm.PlaySound(clip);
                 StartCoroutine(Wait(0.04f));
-                if (player.bulletsNumber > player.maxBulletsNumber)
+                if (playerData.bulletsNumber > player.maxBulletsNumber)
                 {
-                    player.bulletsNumber = player.maxBulletsNumber;
+                    playerData.bulletsNumber = player.maxBulletsNumber;
                 }
             }
 

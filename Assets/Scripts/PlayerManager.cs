@@ -1,8 +1,6 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System;
 
 public class PlayerManager : MonoBehaviour
 {
@@ -16,12 +14,14 @@ public class PlayerManager : MonoBehaviour
     public bool isAlive;
 
     Animator animator;
-    public Action checkPlayerHealth;
+    PlayerShooter playerShooter;
+    public PlayerDataSO playerData;
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         c2d = GetComponent<Collider2D>();
+        playerShooter = GetComponent<PlayerShooter>();
     }
     private void Start()
     {
@@ -41,6 +41,7 @@ public class PlayerManager : MonoBehaviour
         {
             Rotation();
         }
+
         Death();
     }
     void Move()
@@ -54,15 +55,18 @@ public class PlayerManager : MonoBehaviour
     {
         Vector2 mouseWorldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector2 direction = mouseWorldPosition - (Vector2)transform.position;
-        transform.up = -direction;
+        transform.up = direction;
     }
     void Death()
     {
-        if (health.health <= 0)
+        if (playerData.health == 0)
         {
             animator.SetBool("IsDead", true);
             isAlive = false;
             c2d.isTrigger = true;
+            rb.freezeRotation = true;
+            rb.velocity = Vector2.zero;
+            playerShooter.enabled = false;
             StartCoroutine(Wait(3f));
         }
     }
@@ -70,6 +74,8 @@ public class PlayerManager : MonoBehaviour
     {
         yield return new WaitForSeconds(waitTime);
         int index = SceneManager.GetActiveScene().buildIndex;
+        playerData.health = playerData.maxHealth;
+        playerData.bulletsNumber = playerShooter.maxBulletsNumber;
         SceneManager.LoadScene(index);
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -79,6 +85,15 @@ public class PlayerManager : MonoBehaviour
             int index = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(index + 1);
 
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == 10)
+        {
+            playerData.health--;
+            health.HealthReduce();
+            Destroy(collision.gameObject);
         }
     }
 }

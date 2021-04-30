@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using System;
 using Pathfinding;
@@ -45,7 +44,7 @@ public class ZombieManager : MonoBehaviour
     PlayerManager player;
     PlayerHealth playerHealth;
     ZombieState aciveState;
-
+    public PlayerDataSO playerData;
     enum ZombieState
     {
         ATTACK,
@@ -77,9 +76,20 @@ public class ZombieManager : MonoBehaviour
     }
     void Update()
     {
-        UpdateState();
+        
+        if (isAlive)
+        {
+            UpdateState();
+            
+            Rotation();
+        }
         ZombieIsDead();
-
+    }
+    void Rotation()
+    {
+        Vector3 zombiePosition = transform.position;
+        Vector3 direction = destinationSetter.target.position - zombiePosition;
+        transform.up = direction;
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -158,6 +168,7 @@ public class ZombieManager : MonoBehaviour
             c2d.isTrigger = true;
             rb.velocity = Vector2.zero;
             aiPath.enabled = false;
+            rb.freezeRotation = true;
             StartCoroutine(DestroyBody(3f));
         }
     }
@@ -167,7 +178,7 @@ public class ZombieManager : MonoBehaviour
         switch (aciveState)
         {
             case ZombieState.ATTACK:
-                animator.SetTrigger("Attack");
+                animator.SetBool("IsAttack", true);
                 aiPath.enabled = false;
                 break;
 
@@ -175,6 +186,7 @@ public class ZombieManager : MonoBehaviour
                 aiPath.enabled = true;
                 destinationSetter.target = player.transform;
                 animator.SetFloat("Speed", aiPath.maxSpeed);
+                animator.SetBool("IsAttack", false);
                 break;
 
             case ZombieState.STAND:
@@ -231,8 +243,8 @@ public class ZombieManager : MonoBehaviour
     {
         if (distance <= attackRange)
         {
-            player.checkPlayerHealth();
-            playerHealth.health--;
+            playerHealth.HealthReduce();
+            playerData.health--;
         }
     }
     IEnumerator DestroyBody(float wait)

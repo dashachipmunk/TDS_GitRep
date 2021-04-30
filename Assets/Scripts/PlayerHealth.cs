@@ -2,22 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
+using System;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int health;
     public Slider healthBar;
     public PlayerManager player;
     public Image sliderImage;
-
+    public PlayerDataSO playerData;
     private void Start()
     {
-        healthBar.maxValue = health;
-        healthBar.value = health;
-        player.checkPlayerHealth += HealthReduce;
+        healthBar.maxValue = playerData.maxHealth;
+        healthBar.value = playerData.health;
     }
 
-    void HealthReduce()
+    public void HealthReduce()
     {
         healthBar.value--;
         if (healthBar.value <= healthBar.maxValue / 2)
@@ -30,4 +29,5 @@ public class PlayerHealth : MonoBehaviour
             }
         }
     }
+    
 }
